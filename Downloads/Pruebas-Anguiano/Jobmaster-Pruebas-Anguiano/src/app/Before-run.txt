@@ -1,0 +1,2 @@
+Before mount the app dont forget to do this command ==> ionic cordova run browser
+if you don't run, maybe shouldn't view the map and function assigned to this.
